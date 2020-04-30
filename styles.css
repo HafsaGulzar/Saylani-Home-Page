@@ -1,0 +1,357 @@
+.main{
+    background-color:#3a5dbd;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.icon{
+    margin-left: 20px;
+}
+.icons{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.para{
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding-top: 13px;
+    margin-left: 0px;
+    
+}
+.btn{
+    padding-left: 0px;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+.btn1{
+    font-size: 13px;
+    color:green;
+}
+.main2{
+    background-color: whitesmoke;
+    position:sticky;
+    top:0px;
+    width: 100%;
+   z-index: 1;
+}
+.img{
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.menus{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 300px;
+}
+.menu{
+    color:black;
+}
+.imgSize{
+    height: 500px;
+}
+.para2{
+    background-color:#3173de;
+    margin:10px 10% auto 10%;
+    height: 30px;
+}
+.para2text{
+   color: white;
+}
+.introCon{
+    background-color: whitesmoke;
+    margin-top: 10px ;
+}
+
+.intro{
+    color:blue;
+    padding-top: 50px;
+    margin-left:400px ;
+   display: inline-block;
+   align-items: center;
+   font-family: serif;
+   font-weight: normal;
+    
+}
+.intro2{
+   color: green;
+   padding-top: 50px;
+   display: inline-block;
+   margin:0px auto;
+   font-family: serif;
+   font-weight: normal;
+   margin-left:0px ;
+   padding-left: 0px;
+}
+.Introicon{
+    margin-left: 450px;
+
+}
+.introtext{
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.blueicons{
+    background-color:#0235cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+    
+    
+}
+.iconsdisplay{
+    
+     margin-bottom:70px;
+}
+.amount{
+    font-size: 62px;
+    font-family: serif;
+    color: white;
+    margin-left: 30px;
+}
+.edu{
+    font-size: 20px;
+    font-family: serif;
+    color: white;
+    margin-left: 20px; 
+    display: inline-block
+   
+}
+.month{
+    font-size: 20px;
+    font-family: serif;
+    color:#4ded45;
+    display: inline-block; 
+}
+
+.rowN{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.colN{
+    width: 100px;
+    background-color: white;
+    margin-left: 35px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.colN>img{
+    width: 70px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.para3{
+    color:#0235cf;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 40px;
+    
+
+}
+.para3a{
+    color:#0235cf;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.HeadingProjects{
+    color:#0235cf ;
+    font-family: serif;
+    margin-left: 200px;
+    margin-top: 70px;
+     font-size: 28px;
+     font-weight: bold;
+  }
+.mindivicons{
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.vertcalmarquee{
+    display: inline-block;
+      
+    }
+    .colI{
+        width: 500px;
+        background-color: whitesmoke;
+        margin-left: 20px;
+        margin-top: 20px;
+        padding-bottom: 10px;
+        display: flex;
+         align-items: center;
+      
+    }
+    .colI>img{
+             width: 25px;
+              margin-top: 10px;
+    }
+    
+    .dinhead{
+        
+         color: #0235cf;
+         margin-right: 200px;
+         margin-left: 20px;
+         margin-top: 25px;
+         font-family: serif;
+         font-weight: bold;
+        
+    }
+    .mindivicons{
+        display: inline-block;
+        margin-left: 200px;
+    }
+    .oneIcons, .twoIcons{
+        /* width: 50%; */
+    }
+    .mainDivIcons{
+        display: flex;
+        justify-content:space-between;
+    }
+    .oneIcons{
+        margin-left: 200px;
+    }
+    .twoIcons{
+        width: 20%;
+        margin-right: 200px;
+        margin-top: 20px;
+        margin-bottom:100px;
+    }
+    .LastImages{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    
+    
+   .DropClass a:hover{
+       display: block;
+   }
+   
+
+   .footerP{
+       color: silver;
+       margin-left: 200px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+      
+   }
+   .footerIcons{
+       
+       padding-top: 100px;
+       padding-bottom: 100px;
+   }
+   .paraLast{
+       color: white;
+   }
+   .LastFooter{
+       display: flex;
+       margin-top: 90px;
+       margin-left: 20px;
+       padding-left: 20px;
+   }
+  .ConnectLast{
+      margin-left: 0px;
+  }
+  .LastIcons {
+      background-color:#3173de; 
+      width: 30px;
+      height: 30px;
+      border-radius:30px;
+     text-align: center;
+     
+  }
+
+  .dropbtn {
+    background-color:whitesmoke;
+    color:black;
+    padding: 05px;
+    font-size: 16px;
+    border: none;
+    margin-top: 15px;
+    padding-left: 10px;
+    
+  
+  }
+  
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+
+  }
+  
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+   
+  }
+  
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 14px;
+    text-decoration: none;
+    display: block;
+   
+  }
+  
+ 
+  .dropdown-content a:hover {
+      background-color:#3a5dbd;
+       color: white;
+       list-style: none;
+       text-decoration: none;
+    }
+  
+ 
+  .dropdown:hover .dropdown-content{
+      display: block;
+}
+  
+  
+  .dropdown:hover .dropbtn {
+      background-color: #3a5dbd;
+      color: white;
+      border-radius: 50px;
+      
+    }
+    .active{
+        background-color: #3a5dbd;
+      border-radius: 50px;
+      color: white;
+    }
+    .line1::before{
+        content: "";
+        display: block;
+        width: 50px;
+        height: 2px;
+        background-color: green;
+       
+       
+
+    }
+ 
+  
